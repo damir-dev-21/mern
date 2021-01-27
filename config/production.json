@@ -1,0 +1,6 @@
+{
+    "PORT":5000,
+    "MongoURI":"mongodb+srv://damir-dev:d2222d@cluster0.ftkmh.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret":"damir-dev-mern",
+    "baseUrl":"http://localhost:5000"
+}
